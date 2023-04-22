@@ -37,7 +37,7 @@ El sistema muestra el costo de la carrera seleccionada por el estudiante.
 ## Crendenciales admin
 
 Para ingresar a la interfaz predeterminada para los administradores los datos son:
-- Usuario: adminuserz
+- Usuario: adminuser
 - Contraseña: admin123
 
 ## Autores
