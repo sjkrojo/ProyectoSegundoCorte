@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h2{
+  color: black;
+  padding: 25px;
+  text-align: center;
+ 
+}
+
+body{
+        font-family: 'roboto' , sans-serif;
+        background-color: #EAEDFF;
+    }
+
+p{
+    text-align: center;
+
+}
