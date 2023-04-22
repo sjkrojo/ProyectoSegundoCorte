@@ -40,10 +40,6 @@ Para ingresar a la interfaz predeterminada para los administradores los datos so
 - Usuario: adminuserz
 - Contraseña: admin123
 
-- Diego Andres Rodriguez Ramirez
-- Jose Luis Sabogal Monroy
-- Sebastian Enrique Barreto Pacheco 
-
 ## Autores
 
 - Diego Andres Rodriguez Ramirez
