@@ -34,6 +34,16 @@ El sistema muestra el costo de la carrera seleccionada por el estudiante.
 - Frontend: HTML, CSS, JavaScript
 - Backend: Java
 
+## Crendenciales admin
+
+Para ingresar a la interfaz predeterminada para los administradores los datos son:
+- Usuario: adminuserz
+- Contraseña: admin123
+
+- Diego Andres Rodriguez Ramirez
+- Jose Luis Sabogal Monroy
+- Sebastian Enrique Barreto Pacheco 
+
 ## Autores
 
 - Diego Andres Rodriguez Ramirez
